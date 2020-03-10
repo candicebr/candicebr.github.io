@@ -28,11 +28,6 @@ body {
     background-color: lightgray;
 }
 
-
-.carousel-inner {
-    margin-top: -15px;
-}
-
 .carousel-inner img{
     border-style: none double none double;
     border-width: 25px;
